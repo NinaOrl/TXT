@@ -1,1 +1,9 @@
-
+Telegram name: NinaOrlova21
+Bug ID: 1
+Title: E-mail button is not working
+Severity: Blocker
+Priority: 1,
+Environment: Samsung A72, Android 11.0
+STR: Open the APP and press e-mail button
+ER: E-mail window appears
+AR: Button function is not working, unable to send e-mail
