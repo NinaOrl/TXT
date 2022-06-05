@@ -1,0 +1,12 @@
+GIT Bash and Github: Usage, main commands
+Basic theory: Bug reports, client-server model, types, methods and ways of testing
+HTTP: Methods of requests, codes of answers, structure of requests and answers
+JSON/XML: Definitions, structures
+DEV Tools: Google Chrome, Firefox
+VPN: Definition, how to work with
+iOS, Android: Main features
+Mobile testing: Practice
+SQL: Create, Delete, Drop, Insert Info, Select, From, Where, Join
+Postgres: Settings and Usage
+Postman: JS, autotests API
+Charles and Fiddler: Web traffic sniffing
